@@ -1,1 +1,11 @@
 Just testing GIT PUSH :)
+Install powershell if doesnt already exist
+In powershell tell them who you are
+git config --global user.email "you@example.com" 
+git config --global user.name "Your Name"
+name your changes by git commit -m "abc123"
+git push
+
+first time do this
+git remote add origin https://github.com/D3X7R0U5/link of your repository
+git push -u origin master 
