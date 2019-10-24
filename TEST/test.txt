@@ -1,9 +1,11 @@
 Just testing GIT PUSH :)
 Install powershell if doesnt already exist
+git clone projectlink.github.com
 In powershell tell them who you are
 git config --global user.email "you@example.com" 
 git config --global user.name "Your Name"
 name your changes by git commit -m "abc123"
+stage your changes git =add 
 git push
 
 first time do this
